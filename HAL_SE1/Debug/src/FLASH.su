@@ -1,0 +1,7 @@
+../src/FLASH.c:10:6:FLASH_Init	4	static
+../src/FLASH.c:15:14:FLASH_EraseSector	16	static
+../src/FLASH.c:33:14:FLASH_WriteData	32	static
+../src/FLASH.c:55:14:_FLASH_PrepareSectorForWrite	16	static
+../src/FLASH.c:69:6:_FLASH_ClearCommandsAndOutput	8	static
+../src/FLASH.c:75:14:_FLASH_GetSector	24	static
+../src/FLASH.c:89:14:FLASH_VerifyData	24	static

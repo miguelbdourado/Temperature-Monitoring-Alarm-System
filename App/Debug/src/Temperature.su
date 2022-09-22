@@ -1,0 +1,4 @@
+../src/Temperature.c:11:6:updateTemperature	8	static
+../src/Temperature.c:20:8:getMaxTemperature	8	static
+../src/Temperature.c:28:8:getMinTemperature	8	static
+../src/Temperature.c:36:20:getTemperatureLimitStatus	8	static

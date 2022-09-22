@@ -1,0 +1,10 @@
+D:\University\Engineering\Ano 4\se1\CMSIS_CORE_LPC17xx\inc/core_cm3.h:1323:22:NVIC_EnableIRQ	16	static
+D:\University\Engineering\Ano 4\se1\CMSIS_CORE_LPC17xx\inc/core_cm3.h:1405:22:NVIC_SetPriority	16	static
+D:\University\Engineering\Ano 4\se1\CMSIS_CORE_LPC17xx\inc/core_cm3.h:1532:26:SysTick_Config	16	static
+../src/Wait.c:12:5:WAIT_init	8	static
+../src/Wait.c:19:6:SysTick_Handler	4	static
+../src/Wait.c:24:6:WAIT_Milliseconds	24	static
+../src/Wait.c:34:10:WAIT_GetElapsedMillis	16	static
+../src/Wait.c:39:6:WAIT_ChronosInit	8	static
+../src/Wait.c:49:5:WAIT_ChronoUs	16	static
+../src/Wait.c:63:6:TIMER0_IRQHandler	4	static

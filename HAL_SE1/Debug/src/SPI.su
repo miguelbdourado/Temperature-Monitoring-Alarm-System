@@ -1,0 +1,6 @@
+../src/SPI.c:13:17:spi_GetPclk	16	static
+../src/SPI.c:50:6:SPI_Init	8	static
+../src/SPI.c:75:6:SPI_ConfigTransfer	32	static
+../src/SPI.c:94:5:SPI_Transfer	32	static
+../src/SPI.c:108:9:SPI_Write	16	static
+../src/SPI.c:118:9:SPI_Read	16	static

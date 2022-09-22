@@ -1,0 +1,12 @@
+../src/LCDText.c:13:6:LCDText_Init	8	static
+../src/LCDText.c:58:6:LCDText_SetCursor	48	static
+../src/LCDText.c:89:6:PULSE_ENABLE	8	static
+../src/LCDText.c:107:6:__LCD_Write9Bits	16	static
+../src/LCDText.c:113:6:__LCD_Write5Bits	16	static
+../src/LCDText.c:123:6:LCDText_WriteChar	24	static
+../src/LCDText.c:142:6:LCDText_Printf	48	static
+../src/LCDText.c:152:6:LCDText_WriteString	24	static
+../src/LCDText.c:157:6:LCDText_GetStatus	4	static
+../src/LCDText.c:162:6:LCDText_SetStatus	16	static
+../src/LCDText.c:168:6:LCDText_Clear	8	static
+../src/LCDText.c:177:6:LCDText_SetCursorStatus	16	static

@@ -1,0 +1,7 @@
+../src/KEYPAD.c:12:5:KEYPAD_Init	16	static
+../src/KEYPAD.c:30:6:KEYPAD_Hit	4	static
+../src/KEYPAD.c:39:10:KEYPAD_Read	24	static
+../src/KEYPAD.c:60:6:isKeyPressed	24	static
+../src/KEYPAD.c:70:6:isKeyDown	24	static
+../src/KEYPAD.c:80:6:isKeyUp	24	static
+../src/KEYPAD.c:91:6:updateKeys	8	static

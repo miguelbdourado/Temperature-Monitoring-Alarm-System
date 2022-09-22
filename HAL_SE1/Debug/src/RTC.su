@@ -1,0 +1,5 @@
+../src/RTC.c:10:6:RTC_Init	16	static
+../src/RTC.c:24:6:RTC_GetValue	16	static
+../src/RTC.c:35:6:RTC_SetValue	16	static
+../src/RTC.c:45:6:RTC_SetSeconds	24	static
+../src/RTC.c:53:8:RTC_GetSeconds	48	static

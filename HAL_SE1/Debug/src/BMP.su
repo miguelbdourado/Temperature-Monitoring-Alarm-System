@@ -1,0 +1,6 @@
+../src/BMP.c:13:8:getTempCelsius	64	static
+../src/BMP.c:37:8:getTempFahrenheit	8	static
+../src/BMP.c:43:5:SetReg8	32	static
+../src/BMP.c:62:16:GetReg16	32	static
+../src/BMP.c:82:15:GetReg8	24	static
+../src/BMP.c:101:6:BMP_Init	16	static
